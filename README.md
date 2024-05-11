@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DimoNULL
 - 👀 I’m interested in game modding
 - 🌱 I’m currently learning C+++
-- 💞️ I’m looking to collaborate on BitPaw
 - 📫 How to reach me: @DimoNULL
 
 <!---
